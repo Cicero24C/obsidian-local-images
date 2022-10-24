@@ -1,5 +1,11 @@
 # Obsidian Local Images
 
+---
+
+**support media file base on md file path**, check [this pr](https://github.com/lpreterite/obsidian-local-images/commit/8627c9192e390d8a61532ecb4516afe64238ede3)
+
+---
+
 **This plugin is still young, backups are a good idea.**
 
 Obsidian Local Images is a plugin for [Obsidian](https://obsidian.md/) desktop version. 
